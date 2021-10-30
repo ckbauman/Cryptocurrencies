@@ -17,17 +17,20 @@ Accountability Accounting (an investment bank) is looking at offering a new cryp
 
 - Deliverable 3:  Clustering Cryptocurrencies using K-means
     - Created an Elbow Curve to determine beset value for K
-    INSERT elbow image
+    ![elbow](https://github.com/ckbauman/Cryptocurrencies/blob/main/Images/elbow.png)
+    
     - Ran the K-means model using K=4 and created predictions
     - Created a DataFrame with the results
 
 - Deliverable 4:  Visualizing Crypto Results
     - Created a 3D Scatter Plot with PCA results
-    INSERT 3DScatter image
+    ![3DScatter](https://github.com/ckbauman/Cryptocurrencies/blob/main/Images/3DScatter.png)
+    
     - Created a table with PCA results
-    INSERT table image
+    ![table](https://github.com/ckbauman/Cryptocurrencies/blob/main/Images/table.png)
+    
     - Scaled data and created a 2D Scatter Plot
-    INSERT 2DScatter image
+    ![2DScatter](https://github.com/ckbauman/Cryptocurrencies/blob/main/Images/2DScatter.png)
 
 
 
